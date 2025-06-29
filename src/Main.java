@@ -1,7 +1,7 @@
 /**
  * @author : Nikolai Degtiarev
  * created : 29.06.25
- * 
+ * <p>
  * ${DESCRIPTION}
  **///TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
